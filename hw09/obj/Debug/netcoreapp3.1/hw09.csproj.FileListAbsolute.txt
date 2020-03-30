@@ -1,0 +1,39 @@
+D:\mana\demo\hw09\bin\Debug\netcoreapp3.1\hw09.exe
+D:\mana\demo\hw09\bin\Debug\netcoreapp3.1\hw09.deps.json
+D:\mana\demo\hw09\bin\Debug\netcoreapp3.1\hw09.runtimeconfig.json
+D:\mana\demo\hw09\bin\Debug\netcoreapp3.1\hw09.runtimeconfig.dev.json
+D:\mana\demo\hw09\bin\Debug\netcoreapp3.1\hw09.dll
+D:\mana\demo\hw09\bin\Debug\netcoreapp3.1\hw09.pdb
+D:\mana\demo\hw09\obj\Debug\netcoreapp3.1\hw09.csprojAssemblyReference.cache
+D:\mana\demo\hw09\obj\Debug\netcoreapp3.1\hw09.csproj.CoreCompileInputs.cache
+D:\mana\demo\hw09\obj\Debug\netcoreapp3.1\hw09.AssemblyInfoInputs.cache
+D:\mana\demo\hw09\obj\Debug\netcoreapp3.1\hw09.AssemblyInfo.cs
+D:\mana\demo\hw09\obj\Debug\netcoreapp3.1\hw09.dll
+D:\mana\demo\hw09\obj\Debug\netcoreapp3.1\hw09.pdb
+D:\mana\demo\hw09\obj\Debug\netcoreapp3.1\hw09.genruntimeconfig.cache
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\hw09\bin\Debug\netcoreapp3.1\hw09.exe
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\hw09\bin\Debug\netcoreapp3.1\hw09.deps.json
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\hw09\bin\Debug\netcoreapp3.1\hw09.runtimeconfig.json
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\hw09\bin\Debug\netcoreapp3.1\hw09.runtimeconfig.dev.json
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\hw09\bin\Debug\netcoreapp3.1\hw09.dll
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\hw09\bin\Debug\netcoreapp3.1\hw09.pdb
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\hw09\obj\Debug\netcoreapp3.1\hw09.csprojAssemblyReference.cache
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\hw09\obj\Debug\netcoreapp3.1\hw09.csproj.CoreCompileInputs.cache
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\hw09\obj\Debug\netcoreapp3.1\hw09.AssemblyInfoInputs.cache
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\hw09\obj\Debug\netcoreapp3.1\hw09.AssemblyInfo.cs
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\hw09\obj\Debug\netcoreapp3.1\hw09.dll
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\hw09\obj\Debug\netcoreapp3.1\hw09.pdb
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\hw09\obj\Debug\netcoreapp3.1\hw09.genruntimeconfig.cache
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60-ubu.ac.th\hw09\bin\Debug\netcoreapp3.1\hw09.exe
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60-ubu.ac.th\hw09\bin\Debug\netcoreapp3.1\hw09.deps.json
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60-ubu.ac.th\hw09\bin\Debug\netcoreapp3.1\hw09.runtimeconfig.json
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60-ubu.ac.th\hw09\bin\Debug\netcoreapp3.1\hw09.runtimeconfig.dev.json
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60-ubu.ac.th\hw09\bin\Debug\netcoreapp3.1\hw09.dll
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60-ubu.ac.th\hw09\bin\Debug\netcoreapp3.1\hw09.pdb
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60-ubu.ac.th\hw09\obj\Debug\netcoreapp3.1\hw09.csprojAssemblyReference.cache
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60-ubu.ac.th\hw09\obj\Debug\netcoreapp3.1\hw09.csproj.CoreCompileInputs.cache
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60-ubu.ac.th\hw09\obj\Debug\netcoreapp3.1\hw09.AssemblyInfoInputs.cache
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60-ubu.ac.th\hw09\obj\Debug\netcoreapp3.1\hw09.AssemblyInfo.cs
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60-ubu.ac.th\hw09\obj\Debug\netcoreapp3.1\hw09.dll
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60-ubu.ac.th\hw09\obj\Debug\netcoreapp3.1\hw09.pdb
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60-ubu.ac.th\hw09\obj\Debug\netcoreapp3.1\hw09.genruntimeconfig.cache

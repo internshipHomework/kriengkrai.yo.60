@@ -1,0 +1,13 @@
+D:\mana\demo\hw05\bin\Debug\netcoreapp3.1\hw05.exe
+D:\mana\demo\hw05\bin\Debug\netcoreapp3.1\hw05.deps.json
+D:\mana\demo\hw05\bin\Debug\netcoreapp3.1\hw05.runtimeconfig.json
+D:\mana\demo\hw05\bin\Debug\netcoreapp3.1\hw05.runtimeconfig.dev.json
+D:\mana\demo\hw05\bin\Debug\netcoreapp3.1\hw05.dll
+D:\mana\demo\hw05\bin\Debug\netcoreapp3.1\hw05.pdb
+D:\mana\demo\hw05\obj\Debug\netcoreapp3.1\hw05.csprojAssemblyReference.cache
+D:\mana\demo\hw05\obj\Debug\netcoreapp3.1\hw05.csproj.CoreCompileInputs.cache
+D:\mana\demo\hw05\obj\Debug\netcoreapp3.1\hw05.AssemblyInfoInputs.cache
+D:\mana\demo\hw05\obj\Debug\netcoreapp3.1\hw05.AssemblyInfo.cs
+D:\mana\demo\hw05\obj\Debug\netcoreapp3.1\hw05.dll
+D:\mana\demo\hw05\obj\Debug\netcoreapp3.1\hw05.pdb
+D:\mana\demo\hw05\obj\Debug\netcoreapp3.1\hw05.genruntimeconfig.cache
