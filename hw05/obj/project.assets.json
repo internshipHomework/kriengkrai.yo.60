@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\mana\\demo\\hw05\\hw05.csproj",
+      "projectUniqueName": "C:\\Users\\krien\\OneDrive - Ubon Ratchathani University\\intershipTHES\\demo\\kriengkrai.yo.60\\hw05\\hw05.csproj",
       "projectName": "hw05",
-      "projectPath": "D:\\mana\\demo\\hw05\\hw05.csproj",
+      "projectPath": "C:\\Users\\krien\\OneDrive - Ubon Ratchathani University\\intershipTHES\\demo\\kriengkrai.yo.60\\hw05\\hw05.csproj",
       "packagesPath": "C:\\Users\\krien\\.nuget\\packages\\",
-      "outputPath": "D:\\mana\\demo\\hw05\\obj\\",
+      "outputPath": "C:\\Users\\krien\\OneDrive - Ubon Ratchathani University\\intershipTHES\\demo\\kriengkrai.yo.60\\hw05\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krien\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -11,3 +11,16 @@ D:\mana\demo\hw05\obj\Debug\netcoreapp3.1\hw05.AssemblyInfo.cs
 D:\mana\demo\hw05\obj\Debug\netcoreapp3.1\hw05.dll
 D:\mana\demo\hw05\obj\Debug\netcoreapp3.1\hw05.pdb
 D:\mana\demo\hw05\obj\Debug\netcoreapp3.1\hw05.genruntimeconfig.cache
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60\hw05\bin\Debug\netcoreapp3.1\hw05.exe
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60\hw05\bin\Debug\netcoreapp3.1\hw05.deps.json
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60\hw05\bin\Debug\netcoreapp3.1\hw05.runtimeconfig.json
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60\hw05\bin\Debug\netcoreapp3.1\hw05.runtimeconfig.dev.json
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60\hw05\bin\Debug\netcoreapp3.1\hw05.dll
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60\hw05\bin\Debug\netcoreapp3.1\hw05.pdb
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60\hw05\obj\Debug\netcoreapp3.1\hw05.csprojAssemblyReference.cache
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60\hw05\obj\Debug\netcoreapp3.1\hw05.csproj.CoreCompileInputs.cache
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60\hw05\obj\Debug\netcoreapp3.1\hw05.AssemblyInfoInputs.cache
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60\hw05\obj\Debug\netcoreapp3.1\hw05.AssemblyInfo.cs
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60\hw05\obj\Debug\netcoreapp3.1\hw05.dll
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60\hw05\obj\Debug\netcoreapp3.1\hw05.pdb
+C:\Users\krien\OneDrive - Ubon Ratchathani University\intershipTHES\demo\kriengkrai.yo.60\hw05\obj\Debug\netcoreapp3.1\hw05.genruntimeconfig.cache

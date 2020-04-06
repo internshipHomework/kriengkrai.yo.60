@@ -1,36 +1,68 @@
 ﻿using System;
 
-namespace myapp
+namespace hw05
 {
-    public class Homework05
+    public interface IHomework05
     {
-        static void Main(string[] args)
+        string DisplayLEDOnScreen(string ledNo);
+    }
+
+    class LEDPanel : IHomework05
+    {
+        bool[] leds = new bool[10];
+
+        public LEDPanel()
         {
 
+        }
 
-            string[] stateDefault = new string[10] { "[ ]", "[ ]", "[ ]", "[ ]", "[ ]", "[ ]", "[ ]", "[ ]", "[ ]", "[ ]" };
-            string[] lightLED = new string[10] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "A" };
+        public void Flip(String x)
 
+        {
+            // Console.WriteLine("bornborn");
+            int i = Convert.ToInt32(x, 16);
+            leds[i - 1] = !leds[i - 1];
+
+        }
+
+        public string Display()
+        {
+            string display = "";
+            for (int i = 0; i < leds.Length; i++)
+            {
+                // Console.Write(leds[i]);
+                display += leds[i] ? "[!] " : "[ ] ";
+            }
+            return display;
+
+
+        }
+        public string DisplayLEDOnScreen(string x)
+        {
+            Flip(x);
+
+            return Display();
+
+        }
+
+    }
+
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            LEDPanel panel = new LEDPanel();
             do
             {
-                Console.WriteLine(String.Join("", stateDefault));
-                Console.WriteLine(string.Join("  ", lightLED));
                 Console.Write("Please choose LED to turn On/Off: ");
+                string x = Console.ReadLine();
+                Console.WriteLine(panel.DisplayLEDOnScreen(x));
+                // Console.WriteLine(panel.Display());
+                Console.WriteLine(" 1   " + "2   " + "3   " + "4   " + "5   " + "6   " + "7   " + "8   " + "9   " + "A");
 
-                string userInput = Console.ReadLine();
-                for (int i = 0; i < lightLED.Length; i++)
-                {
-                    if (lightLED[i] == userInput & stateDefault[i] == "[!]")
-                    {
-                        stateDefault[i] = "[ ]";
-                    }
-                    else if (lightLED[i] == userInput & stateDefault[i] == "[ ]")
-                    {
-                        stateDefault[i] = "[!]";
-                    }
+                // Console.ReadKey();
 
-
-                }
 
             } while (true);
         }
